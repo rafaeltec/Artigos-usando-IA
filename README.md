@@ -10,6 +10,7 @@
 <p>Usei chatgpt 3 + aiprm. Este plug-inn instalado no navegador tem inumeros templates e formatações, usei o prompt: Democratizando o Futuro,Inteligência Artificial para Todos </p>
 <h1>4-Postar o artigo com um call to action-done -gpt<</h1>
 <p>web.dio.me/new-article</p>
+<p>https://www.dio.me/articles/democratizando-o-futuro-inteligencia-artificial-para-todos</p>
 
  
 
